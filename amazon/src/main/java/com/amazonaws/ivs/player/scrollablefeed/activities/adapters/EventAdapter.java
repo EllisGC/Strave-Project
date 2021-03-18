@@ -2,6 +2,7 @@ package com.amazonaws.ivs.player.scrollablefeed.activities.adapters;
 
 import android.app.AlertDialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -55,6 +56,12 @@ public class EventAdapter  extends RecyclerView.Adapter<EventViewHolder> {
                 AlertDialog.Builder builder = new AlertDialog.Builder(listActivity);
 
                 String[] options = {"Update", "Delete"};
+                builder.setItems(options, new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialogInterface, int i) {
+
+                    }
+                });
 
             }
         });
