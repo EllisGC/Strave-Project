@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Strave</string>
+    <string name="event_dashboard_title">Dashboard</string>
+    <string name="event_dashboard_heading">Discover Amazing events near you.</string>
+    <string name="event_dashboard__sub_heading">30 events near you.</string>
+    <string name="event_search_hint">Search for an event...</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Accumsan in nisl nisi scelerisque eu. Semper feugiat nibh sed pulvinar proin gravida. Quisque sagittis purus sit amet. Faucibus turpis in eu mi bibendum. Quisque egestas diam in arcu cursus euismod quis viverra. Dictumst quisque sagittis purus sit amet volutpat consequat. Tristique risus nec feugiat in. Nunc id cursus metus aliquam. Fames ac turpis egestas maecenas pharetra convallis posuere morbi leo. Leo integer malesuada nunc vel. Ac feugiat sed lectus vestibulum mattis ullamcorper velit. Pulvinar etiam non quam lacus suspendisse faucibus. Donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Montes nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Vehicula ipsum a arcu cursus vitae congue. Ultrices dui sapien eget mi proin sed libero enim. Fermentum iaculis eu non diam phasellus. Vitae semper quis lectus nulla. Eget aliquet nibh praesent tristique magna sit amet purus.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="location">Spaarnwoude / Houtrak, Spaarnwoude, 2064, Netherlands</string>
+    <string name="desc">Awakenings Festival is an electronic music festival held in Spaarnwoude Houtrak, just outside of Amsterdam. Anchored in the techno scene, the festival brings in the biggest names to The Netherlands.
+
+Awakenings has become one of the biggest names in electronic music, holding events all over the country, from the Dutch Capitals favourite Gashouder to the scenic forest setting Spaarnwoude.
+
+Now known as one of the most popular electronic events in the country, Awakenings Festival features 100 acts spread out over eight stages, creating a techno heaven for likeminded ravers to unite. </string>
+    <string name="error_happened_template">Error happened (Code - %1$s)</string>
+    <string name="txt_live">&#11044; LIVE</string>
+    <string name="festival_live_stream">Awakenings Festival Live Stream</string>
+    <string name="date">Date</string>
+    <string name="are_interested">are interested</string>
+    <string name="buy_event">BUY EVENT</string>
+    <string name="todo">TODO</string>
+    <string-array name="type_of_user">
+        <item>Raver</item>
+        <item>Artist</item>
+    </string-array>
+</resources>

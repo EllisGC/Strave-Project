@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#1B1B1B</color>
+    <color name="colorAccent">#FF7676</color>
+    <color name="smokyWhite">#fafafa</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteTransparent">#B3FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorRed">#DC3654</color>
+
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorGradientOverlay">#CC000000</color>
+    <color name="colorHover">#66FFFFFF</color>
+
+    <color name="colorHeartPink">#FF00B8</color>
+    <color name="colorHeartRed">#FF5555</color>
+    <color name="colorHeartViolet">#BB86FF</color>
+    <color name="colorHeartGold">#FFE249</color>
+
+    <color name="colorSecondary">#3F51B5</color>
+    <color name="colorSecondaryDark">#303F9F</color>
+    <color name="colorAccent2">#FF4081</color>
+    <color name="dark_blue">#3023AE</color>
+    <color name="purple">#c86dd7</color>
+
+    <color name="login_form">#ccffffff</color>
+    <color name="login_form_light">#1affffff</color>
+    <color name="greenBuyBtnColor">#00bb5a</color>
+</resources>

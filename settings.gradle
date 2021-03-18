@@ -1,0 +1,2 @@
+include ':amazon'
+rootProject.name = "Scrollable Feed"
