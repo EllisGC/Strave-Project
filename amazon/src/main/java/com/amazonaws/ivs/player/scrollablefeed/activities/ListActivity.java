@@ -90,7 +90,7 @@ public class ListActivity extends AppCompatActivity {
                             eventsList.add(event);
                         }
 
-                        //adapter = new EventAdapter(ListActivity.this, eventsList);
+                        adapter = new EventAdapter(ListActivity.this, eventsList);
                         eRecyclerView.setAdapter(adapter);
 
                     }
